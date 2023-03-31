@@ -1,0 +1,5 @@
+Exercises - now the practice
+Many of the most modern companies in the world are always looking for developers, and one of the ways to get their attention is to have your own Web Portfolio, where you will keep the projects you will develop!
+With this exercise, you will be able to:
+Create your Web Portfolio using all the learning you've built today;
+Host your Web Portfolio on GitHub Pages .
