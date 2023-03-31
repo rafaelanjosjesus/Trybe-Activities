@@ -1,0 +1,4 @@
+Copy the code above and then create a paragraph for each person in the list. Write a very nice message 😄;
+Create a link between the list and the people paragraphs;
+Create a link to the Google page. It should open in another page.
+Keep an eye on the tip 👀: Don't forget to give pushyour repository one to sync with GitHub
