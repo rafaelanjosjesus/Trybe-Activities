@@ -1,0 +1,37 @@
+<style>
+      h1 {
+        color: seagreen;
+        font-size: 65px;
+        font-family: sans-serif, Helvetica; 
+      }
+      .background-color {
+        background-color: whitesmoke;
+      }
+      p {
+        font-weight: 600;
+      }
+
+      body {
+        font-size: 16px;
+      }
+
+      li {
+        font-style: italic;
+        line-height: 60px;
+        text-align: center;
+        text-decoration: underline;
+        font-size: 2em;
+      }
+
+      #green {
+        background-color: green;
+      }
+
+      #dark-green {
+        background-color: seagreen;
+      }
+
+      #blue {
+        background-color: blue;
+      }
+    </style>
