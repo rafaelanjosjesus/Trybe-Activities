@@ -3,5 +3,4 @@ index.html
 Change the h1 text color to orange;
 Modify the background color of the unordered list;
 Create a class to modify the pe tag background color of the ul at the same time.
-Não se esqueça de dar um PUSH no seu repositório para sincronizá-lo com o GitHub
 
