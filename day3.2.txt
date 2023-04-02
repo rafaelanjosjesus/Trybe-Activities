@@ -1,0 +1,59 @@
+to fix
+How about we practice manipulating the placement of elements? Use the following HTML and CSS as a starting point to solve the exercises:
+
+index.html
+
+Copy
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mario</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Exercício do Mario</h1>
+    <img src="https://bit.ly/39HLUyi" alt="jumpMario" class="super-mario" />
+    <img src="https://bit.ly/3arGfMc" alt="goomba" class="goomba" />
+    <img src="https://bit.ly/3AVnjks" alt="bowser" class="bowser" />
+    <p class="speach">
+      Goomba, do something!
+    </p>
+    <img src="https://bit.ly/3tmxgED" alt="baloon" class="baloon" />
+  </body>
+</html>
+style.css
+
+Copy
+.super-mario {
+  width: 200px;
+}
+
+.goomba {
+  width: 100px;
+}
+
+.baloon {
+
+}
+
+.speach {
+  font-size: 25px;
+}
+
+.bowser {
+  width: 200px;
+}
+Characters owned by Nintendo©
+
+Observation 🔎 : Bowser is the dinosaur, Goomba is the mushroom and Mario is Mario, right?
+
+Position Mario above the Goomba.
+
+Position Bowser to the right of the Goomba.
+
+Position the balloon so that it becomes Bowser's speech.
+
+Position the tag text pso that it is inside the speech bubble.
+
+The end result should look similar to this:
