@@ -1,0 +1,57 @@
+Let's reproduce this item scheme in your browser! Copy the codes below and paste them into your VS Code, creating a file index.htmland a style.css.
+
+You probably don't know some of the properties used in this code, but don't worry, for now focus on the classes that you should change according to the instructions in the comments that are inside the style.css file .
+
+index.html
+
+Copy
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício: box model</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="caixa width-and-height" style="background: #036b52">A</div>
+  <div class="caixa width-and-height padding" style="background: #41197f;">B</div>
+  <div class="caixa width-and-height padding margin" style="background: #444955">C</div>
+  <div class="caixa width-and-height padding margin border" style="background: #3898EC">D</div>
+</body>
+</html>
+style.css
+
+Copy
+.caixa {
+  color: white;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.width-and-height {
+  height: 50px;
+  width: 50px;
+}
+
+/* insira na classe abaixo um padding de 20px para aplicá-lo aos itens B, C e D */
+.padding {
+
+}
+
+/* insira na classe abaixo uma margem de 30px para aplicá-la aos itens C e D */
+.margin {
+
+}
+
+/* insira na classe abaixo uma borda com valor '5px solid black' para aplicá-la ao item D */
+.border {
+  
+}
+If you're curious about the display, text-alignand properties vertical-align, feel free to consult the MDN and W3Schools documentation .
+
+But don't worry, we'll talk more about placement of elements in a moment.
+
+The important thing is that you have understood well how the CSS box model works, which is the basis for all these subjects! If you have any questions please don't hesitate to ask.
