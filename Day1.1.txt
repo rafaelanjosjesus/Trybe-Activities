@@ -1,0 +1,6 @@
+Shall we practice what we learned in the video? 💪 Open your VS Code and do the exercises below.
+Keep an eye on the tip 👀 : With the Code Runner plugin that we saw in the video, you can run your code in VS Code with the shortcut Ctrl + Alt + n. Here you can find more information about Code Runner and other useful extensions for VS Code!
+Create a variable called myNameand give it your name (Example: Carolina).
+Create a variable named birthCityand assign it to your hometown.
+Create a variable named birthYearand assign it the year you were born.
+Use console.log()to print the variables you created.
