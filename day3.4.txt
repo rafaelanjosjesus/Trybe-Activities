@@ -1,0 +1,39 @@
+For this exercise, you should not assign any class or id to the components, but just use pseudo-classes to individualize each element!
+index.html
+Copy
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Pseudo-classes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Paleta de Cores</h1>
+  <p>Vamos criar uma paleta de cores com as divs abaixo:</p>
+  <div>
+    <h3>Cor primária</h3>
+  </div>
+  <div>
+    <h3>Cor Secundária</h3>
+  </div>
+  <div>
+    <h3>Cor Complementar</h3>
+  </div>
+  <div>
+    <h3>Cor Escura</h3>
+  </div>
+  <div>
+    <h3>Cor Clara</h3>
+  </div>
+</body>
+</html>
+Style them divsso that when you hover over them, they gain a border.
+
+Make each one divhave its own background color.
+
+Style each of the tags h3the way you see fit (color, size, style, and family).
+
+Make the third one divbigger than the others.
+
+Leave the tags odd h3with the text in italics.
