@@ -1,0 +1,11 @@
+Creating conditional structures with operators if/elseand logical operators will be very common in your career as a developer. So let's practice this very important skill?
+
+Create a variable that takes a candidate's grade in a technical challenge and assigns it a value between 1 and 100.
+
+Implement a logic that checks whether the candidate has been approved, rejected or is on the waiting list. To do this, consider the following information:
+
+If the grade is greater than or equal to 80, print “Congratulations, you are part of the group of approved people!”.
+If the score is less than 80 and greater than or equal to 60, print “You are on our waiting list.”.
+If the grade is less than 60, print "Unfortunately, you failed.".
+Create a conditional structure using if, else ifand elseto create your algorithm and the logical operators that apply to each situation.
+Change the note value to verify that the conditions you implemented work.
