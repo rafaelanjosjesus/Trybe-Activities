@@ -1,0 +1,10 @@
+Create a variable called “weekDay” that receives the string “Wednesday”.
+
+Using if/else, implement the following conditionals:
+
+If the variable “weekDay” is “Monday”, “Tuesday”, “Wednesday”, “Thursday” or “Friday”, print “Yay, another day of learning at Trybe >: D”.
+
+If the variable is some weekend day, print “FINALLY, well deserved rest! UwU!”.
+
+Try changing the string value or even building your own algorithm. This subject is very important for your learning!
+
