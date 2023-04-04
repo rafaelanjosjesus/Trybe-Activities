@@ -1,0 +1,3 @@
+1 - Write some codes and print the result on the console using console.log, one for each basic arithmetic operation. Your code should have two variables, aand b, defined at the beginning with the values ​​that will be operated on. Write codes for:
+
+*Tip: In this link you can find more details about mathematical operators. 😉
