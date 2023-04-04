@@ -1,0 +1,6 @@
+Create a variable to store the candidate's status in a selection process. The possibilities are: 'aprovada', 'lista'or 'reprovada'.
+Create a conditional structure with switch/caseto print the following messages:
+If 'aprovada', print “Congratulations, you are in the group of approved people!”.
+If 'lista', print “You are on our waiting list.”.
+If 'reprovada', print “Unfortunately, you failed.”.
+If default, print the message “Incorrect information.”.
