@@ -1,0 +1,21 @@
+To fix, do the following exercises :
+
+Get the “Services” value from the array menu :
+Copy
+let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+let menuServices = ;
+
+console.log(menuServices);
+Look for the index of the “Portfolio” value of the array menu :
+Copy
+let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+let indexOfPortfolio = ;
+
+console.log(indexOfPortfolio);
+Add the value “Contact” at the end of the array menu .
+Keep an eye on the tip 👀 : Use the method.push()
+
+Copy
+let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+
+console.log(menu);
