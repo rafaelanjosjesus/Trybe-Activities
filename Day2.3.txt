@@ -1,0 +1,3 @@
+Use for/of to print the list elements names with console.log():
+Copy
+let names = ['João', 'Maria', 'Antônio', 'Margarida'];
