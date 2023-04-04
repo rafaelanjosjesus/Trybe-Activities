@@ -1,0 +1,6 @@
+to fix
+To fix, do the following exercise:
+
+Use forto print the list elements groceryListwith console.log():
+Copy
+let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
